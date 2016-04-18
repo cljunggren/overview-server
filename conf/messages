@@ -650,6 +650,6 @@ views.User.new.h1=Register
 
 views.Welcome.show.title=Overview — Visualize your documents
 views.Welcome.show.h1=
-views.Welcome.show.p1=Search, visualize, and review your documents. Up to hundreds of thousands of them, in any format.
+views.Welcome.show.p1=Welcome to the BeyondRecognition document review server
 views.Welcome.show.learn=Learn more
 views.Welcome.show.warning_32bit_html=You are running Overview with 32-bit Java. This Java version prevents Overview from handling large document sets. Please read about <a href="https://github.com/overview/overview-server/wiki/Handling-huge-document-sets">handling large document sets</a>.
